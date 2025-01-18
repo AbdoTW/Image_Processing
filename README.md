@@ -1,2 +1,2 @@
 # Image_Processing
-Desktop application which apply a varaity of proccessing  techniques on images such as halftone , edge detection , high&amp;low pass filter , and more !
+A desktop application that applies a variety of processing techniques to images such as halftone, edge detection, high and low pass filtering, and more!
