@@ -57,6 +57,7 @@ class ImageProcessingApp:
         self.root = root
         self.root.configure(bg="white")
         self.root.title("Image Processing Application")
+        self.root.geometry("400x450")
         self.frame = tk.Frame(self.root,bg="white")
         self.images = []
         self.new_image_window = None
