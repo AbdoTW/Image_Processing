@@ -4,6 +4,11 @@
 
 This project is a desktop application that contains a variety of image processing techniques implemented from scratch using Python.
 
+## Demo
+
+![Demo](files/demo_1.png)
+![Demo](files/demo_2.png)
+
 ## Features
 - Histogram Equalization
 
@@ -39,11 +44,6 @@ This project is a desktop application that contains a variety of image processin
     - peak
     - valley
     - adaptive histogram
-
-## Demo
-
-![Demo](files/demo_1.png)
-![Demo](files/demo_2.png)
 
 ## Installation (how to use ?)
 - 1- create a conda environment with python version 3.10 
